@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_24">24dp</dimen>
+    <dimen name="image_min_dimem">120dp</dimen>
+    <dimen name="text_24">24sp</dimen>
+    <dimen name="text_20">20sp</dimen>
+
+    <dimen name="fav_image">50dp</dimen>
+</resources>

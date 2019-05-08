@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MovieSearch</string>
+    <string name="tab_movie">Movies</string>
+    <string name="tab_fav_movie">Favourite Movies</string>
+    <string name="internet_error">Please check your internet connection</string>
+    <string name="some_error">Something went wrong</string>
+    <string name="title">Title</string>
+    <string name="popularity">Popularity</string>
+    <string name="release">Release Date</string>
+    <string name="overview">Overview</string>
+    <string name="movie_fav_marked">Movie Marked favourite</string>
+    <string name="movie_unfav_marked">Movie UnMarked favourite</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search Movie</string>
+    <string name="empty_list">No Favourite Item</string>
+</resources>
